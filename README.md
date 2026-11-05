@@ -1,4 +1,4 @@
-<img width="452" height="184" alt="image" src="https://github.com/user-attachments/assets/1928dcf3-66c2-4eec-924c-2b60f36c3bf8" /># Muelsyse-Obfuscation-Deobfuscation
+Muelsyse-Obfuscation-Deobfuscation
 An Android app used for image obfuscation and deobfuscation
 
 Supported environment scope:\
